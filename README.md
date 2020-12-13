@@ -17,7 +17,7 @@
 - APIs Examples are found here https://documenter.getpostman.com/view/8779895/TVev5R4R
 
  ## App Structure
- - App\AboutYOu Contains Most Of The Services Classes,Interfaces,Abstracts.
+ - App\MrCs Contains Most Of The Services Classes,Interfaces,Abstracts.
  - App\Console\Commands Contains For Import Data From Sftp ANd Export Data To External Api.
  - App\Kernel Add Here the two Commands to run every 4 hours, 2 hours.
  - App\Http Added Controllers,Added Helper, Added Middleware,Resources,Requests.
