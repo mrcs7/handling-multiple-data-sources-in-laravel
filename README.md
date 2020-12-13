@@ -1,3 +1,12 @@
+## The Application
+
+It's a simple demostration of handling multiple data providers in laravel along with docker, queues, design patterns.
+
+* it has two endpoints for sending csv data and json.
+* it fetchs csv file every 2 hours from sftp server.
+* it has api to return product data.
+* it exports data (every 4 hours) to a specific API.
+
 ## What is Done
 
 - Three Endpoints to import data as json ,csv file and get product by identifier.
